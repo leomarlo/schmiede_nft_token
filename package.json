@@ -1,0 +1,19 @@
+{
+  "name": "schmiedenft",
+  "version": "0.0.1",
+  "description": "Schmiede Hallein NFT Token Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Leonhard Horstmeyer",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.17.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  }
+}
